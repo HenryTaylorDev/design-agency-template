@@ -1,0 +1,28 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0 auto;
+  // max-width: 80%;
+  padding: 0 8rem;
+
+  &__content {
+    text-align: left;
+  }
+
+  &__subtitle {
+    text-align: left;
+    margin-top: 2rem;
+  }
+
+  &__actions {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 100%;
+    flex-grow: 1;
+    margin-top: 4rem;
+  }
+}
