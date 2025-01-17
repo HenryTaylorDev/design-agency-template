@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/design-agency-template/static/css/main.99edff4b.css",
-    "main.js": "/design-agency-template/static/js/main.6d07ff74.js",
+    "main.css": "/design-agency-template/static/css/main.bf92e956.css",
+    "main.js": "/design-agency-template/static/js/main.0ea2e4e3.js",
     "static/js/488.312267a6.chunk.js": "/design-agency-template/static/js/488.312267a6.chunk.js",
     "static/media/cafe-2.jpg": "/design-agency-template/static/media/cafe-2.133753656204b852a7c6.jpg",
+    "static/media/bg.png": "/design-agency-template/static/media/bg.20393bb279377f23b3de.png",
     "index.html": "/design-agency-template/index.html",
-    "main.99edff4b.css.map": "/design-agency-template/static/css/main.99edff4b.css.map",
-    "main.6d07ff74.js.map": "/design-agency-template/static/js/main.6d07ff74.js.map",
+    "main.bf92e956.css.map": "/design-agency-template/static/css/main.bf92e956.css.map",
+    "main.0ea2e4e3.js.map": "/design-agency-template/static/js/main.0ea2e4e3.js.map",
     "488.312267a6.chunk.js.map": "/design-agency-template/static/js/488.312267a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99edff4b.css",
-    "static/js/main.6d07ff74.js"
+    "static/css/main.bf92e956.css",
+    "static/js/main.0ea2e4e3.js"
   ]
 }
