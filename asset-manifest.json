@@ -1,17 +1,16 @@
 {
   "files": {
-    "main.css": "/design-agency-template/static/css/main.bf92e956.css",
-    "main.js": "/design-agency-template/static/js/main.0ea2e4e3.js",
+    "main.css": "/design-agency-template/static/css/main.9c43bb19.css",
+    "main.js": "/design-agency-template/static/js/main.1d65bdef.js",
     "static/js/488.312267a6.chunk.js": "/design-agency-template/static/js/488.312267a6.chunk.js",
-    "static/media/cafe-2.jpg": "/design-agency-template/static/media/cafe-2.133753656204b852a7c6.jpg",
-    "static/media/bg.png": "/design-agency-template/static/media/bg.20393bb279377f23b3de.png",
+    "static/media/port-1.png": "/design-agency-template/static/media/port-1.e8f1b49f02d93a8aca28.png",
     "index.html": "/design-agency-template/index.html",
-    "main.bf92e956.css.map": "/design-agency-template/static/css/main.bf92e956.css.map",
-    "main.0ea2e4e3.js.map": "/design-agency-template/static/js/main.0ea2e4e3.js.map",
+    "main.9c43bb19.css.map": "/design-agency-template/static/css/main.9c43bb19.css.map",
+    "main.1d65bdef.js.map": "/design-agency-template/static/js/main.1d65bdef.js.map",
     "488.312267a6.chunk.js.map": "/design-agency-template/static/js/488.312267a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf92e956.css",
-    "static/js/main.0ea2e4e3.js"
+    "static/css/main.9c43bb19.css",
+    "static/js/main.1d65bdef.js"
   ]
 }
